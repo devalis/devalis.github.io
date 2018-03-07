@@ -12,7 +12,7 @@ a {
 }
 
 a:hover {
- /* color: #842f21;*/
+  color: #ce0f0a;
   font-weight:bold;
 }
 
@@ -72,8 +72,8 @@ section h3.section-subheading {
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #842f21 !important;
-  border-color: #842f21 !important;
+  background-color: #ce0f0a !important;
+  border-color: #ce0f0a !important;
   color: white;
 }
 
@@ -120,7 +120,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  /*color: #842f21;*/
+  color: #ce0f0a;
   font-weight:bold;
 }
 
@@ -134,7 +134,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  /*color: #aa4839;*/
+  color: #ce0f0a;
   font-weight:bold;
 }
 
