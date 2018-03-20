@@ -97,7 +97,9 @@ p{
 
 .header{
 	text-align:center;
-	/*background:url(../img/pw_maze_black_2X.png) left top repeat;*/	
+	/*	background:url(../img/pw_maze_black_2X.png) left top repeat;*/		
+	background-color: black;
+	/*background-color: #eaf6f4;*/
 	padding:280px 0;
 }
 .logo{
@@ -110,7 +112,9 @@ p{
 	font-weight:400;
 	letter-spacing: -1px;
 	margin:0 0 22px 0 ;
-	color:#236a62;
+	/*color:#236a62;*/
+	color:#9bbeba;	
+	/*color:#fff; */
 }
 
 .we-create{
@@ -123,8 +127,9 @@ p{
 .we-create li{
 	display:inline-block;
 	font-family: 'Montserrat',sans-serif;
-	font-size:20px;
-	color: #236a62;
+	font-size:14px;
+	color:#9bbeba;
+	/*color: #236a62;*/
 	/*text-transform: uppercase;*/
 	font-weight: 400;
 	margin:0 5px 0 0;
@@ -205,7 +210,7 @@ color: #fff;
 
 .main-nav li a:hover{ 
 	text-decoration:none;
-	color: #7cc576;
+	color: #236a62;
 }
 
 .small-logo{ 
@@ -291,7 +296,7 @@ color: #fff;
 .Learn-More{
 	display:inline-block;
 	padding:0 5px 0 0;
-	color:#7cc576;
+	color:#236a62;
 	font-size:16px;
 	text-transform:uppercase;
 	font-family: 'Montserrat', sans-serif;
@@ -340,7 +345,7 @@ color: #fff;
 	-webkit-transition:all 0.3s ease-in-out;
 }
 .Portfolio-nav li a:hover{
-	background:#7cc576;
+	background:#236a62;
 	color:#fff;
 	text-decoration:none;
 }
@@ -371,7 +376,7 @@ color: #fff;
 }
 
 .Portfolio-nav li a.current{
-	background:#7cc576;
+	background:#236a62;
 	color:#fff;
 	text-decoration:none;
 }
@@ -401,7 +406,8 @@ img {
 /* Clients
 ---------------------------------*/
 .client-part{
-	background:url(../img/section-bg1.jpg) center center no-repeat;
+	/*background:url(../img/section-bg1.jpg) center center no-repeat;*/
+	background-color: black;
 	background-size:cover;
 	padding:55px 0;
 	text-align:center;
@@ -445,13 +451,13 @@ img {
 	width:68px;
 	height:68px;
 	margin:0 auto;
-	border:2px solid #7cc576;
+	border:2px solid #236a62;
 	border-radius:50%;
 	display:block;
 	line-height:68px;
 	text-align:center;
 	font-size:27px;
-	color:#7cc576;
+	color:#236a62;
 	cursor: pointer;
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
@@ -464,7 +470,7 @@ border: 2px solid #fff;
 }
 
 .c-logo-part{
-	background:#7cc576;
+	/*background:#236a62;*/
 	padding:25px 0;
     filter: alpha(opacity=60);
 }
@@ -703,7 +709,7 @@ border: 2px solid #fff;
 	-webkit-transition:all 0.3s ease-in-out;
 }
 .input-text:focus {
-	border: 1px solid #7cc576;
+	border: 1px solid #236a62;
 	outline:0;
 	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(124, 197, 118, 0.3);
 	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(124, 197, 118, 0.3);	
@@ -718,7 +724,7 @@ border: 2px solid #fff;
 .input-btn{
 	width:175px;
 	height:50px;
-	background:#7cc576;
+	background:#236a62;
 	border-radius:4px;
 	color:#ffffff;
 	font-size:14px;
@@ -745,8 +751,8 @@ border: 2px solid #fff;
 }
 
 #sendmessage {
-    color: #7cc576;
-    border:1px solid #7cc576;
+    color: #236a62;
+    border:1px solid #236a62;
     display:none;
     text-align:center;
     padding:15px;
@@ -786,7 +792,7 @@ border: 2px solid #fff;
 	text-align:center;
 }
 .copyright a, .credits a{
-	color:#7cc576;
+	color:#236a62;
 	font-weight:600;
 	text-decoration: none;
 	transition:all 0.3s ease-in-out;
@@ -815,7 +821,7 @@ border: 2px solid #fff;
 }
 
 .res-nav_click:hover, .res-nav_click:active, .res-nav_click:focus {
-	color: #7cc576 !important;
+	color: #236a62;
 }
 
 .portfolioContainer{
