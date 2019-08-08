@@ -1,6 +1,0 @@
-1.prt ok
-4.eshop - git ok
-6.robofriends - git ok
-2.eagle food - heroku/ git ok /site
-3.webpos - heroku/ git / site
-5.face recognition - heroku/ git /site
